@@ -12,7 +12,7 @@ $$ \forall t \in \mathbb{R}, s(t) = \ldots $$
 $$ s: \mathbb{R} \rightarrow \mathbb{R} $$
 Trata-se de um [sinal em tempo contínuo](aula01/ss-sin/sinal%20em%20tempo%20contínuo.md) que pode ser representado graficamente:
 
-![som](aula01/ss-sin/attachments/som.svg)
+![som.svg](attachments/som.svg)
 
 Um [tom puro em tempo contínuo](aula01/ss-sin/tom%20puro%20em%20tempo%20contínuo.md) é um exemplo de um sinal acústico.
 
