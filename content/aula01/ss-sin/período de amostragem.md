@@ -12,7 +12,7 @@ $$
 T=\frac{1}{F_s}
 $$
 [Aula01](../Aula01.md)
-[1. Sinais e Sistemas](../../topicos/1.%20Sinais%20e%20Sistemas.md)
-[1.1 Sinais em tempo contínuo e em tempo discreto](../../topicos/1.1%20Sinais%20em%20tempo%20contínuo%20e%20em%20tempo%20discreto.md)
+[1 Sinais e Sistemas](topicos/1%20Sinais%20e%20Sistemas.md)
+[1-1 Sinais em tempo contínuo e em tempo discreto](topicos/1-1%20Sinais%20em%20tempo%20contínuo%20e%20em%20tempo%20discreto.md)
 Anterior: [amostragem de um sinal em tempo contínuo](amostragem%20de%20um%20sinal%20em%20tempo%20contínuo.md)
 Próximo: [ritmo ou frequência de amostragem](ritmo%20ou%20frequência%20de%20amostragem.md)

@@ -6,14 +6,14 @@ title: "Aula01"
 ## Sumário
 
 - Apresentação da unidade curricular de Sinais e Sistemas
-- [1. Sinais e Sistemas](../topicos/1.%20Sinais%20e%20Sistemas.md)
-- [1.1 Sinais em tempo contínuo e em tempo discreto](../topicos/1.1%20Sinais%20em%20tempo%20contínuo%20e%20em%20tempo%20discreto.md)
-- [1.2 Transformação da variável independente](../topicos/1.2%20Transformação%20da%20variável%20independente.md)
+- [1 Sinais e Sistemas](topicos/1%20Sinais%20e%20Sistemas.md)
+- [1-1 Sinais em tempo contínuo e em tempo discreto](topicos/1-1%20Sinais%20em%20tempo%20contínuo%20e%20em%20tempo%20discreto.md)
+- [1-2 Transformação da variável independente](topicos/1-2%20Transformação%20da%20variável%20independente.md)
 
 ## Conceitos
 
-### [1.1 Sinais em tempo contínuo e em tempo discreto](../topicos/1.1%20Sinais%20em%20tempo%20contínuo%20e%20em%20tempo%20discreto.md)
-- [sinal acústico](ss-sin/sinal%20acústico.md)
+### [1-1 Sinais em tempo contínuo e em tempo discreto](topicos/1-1%20Sinais%20em%20tempo%20contínuo%20e%20em%20tempo%20discreto.md)
+- [sinal acústico](aula01/ss-sin/sinal%20acústico.md)
 - [função matemática](ss-sin/função%20matemática.md)
 - [conjunto de números](ss-sin/conjunto%20de%20números.md)
 - [sinal em tempo contínuo](ss-sin/sinal%20em%20tempo%20contínuo.md)
@@ -31,7 +31,7 @@ title: "Aula01"
 - [energia de um sinal](ss-sin/energia%20de%20um%20sinal.md)
 - [potência de um sinal](ss-sin/potência%20de%20um%20sinal.md)
 
-### [1.2 Transformação da variável independente](../topicos/1.2%20Transformação%20da%20variável%20independente.md)
+### [1-2 Transformação da variável independente](topicos/1-2%20Transformação%20da%20variável%20independente.md)
 - [deslocamento temporal em tempo contínuo](ss-tvi/deslocamento%20temporal%20em%20tempo%20contínuo.md)
 - [inversão temporal](ss-tvi/inversão%20temporal.md)
 - [escalamento temporal](ss-tvi/escalamento%20temporal.md)

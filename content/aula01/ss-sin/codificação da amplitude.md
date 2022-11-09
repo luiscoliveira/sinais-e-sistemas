@@ -13,8 +13,8 @@ No caso de uma imagem quadrada com 512x512 pixeis de com 8 bits por cada compone
 $$ i: \{0, \ldots, 511\}^2 \rightarrow \{0, \ldots, 255 \}^3 $$
 
 [Aula01](../Aula01.md)
-[1. Sinais e Sistemas](../../topicos/1.%20Sinais%20e%20Sistemas.md)
-[1.1 Sinais em tempo contínuo e em tempo discreto](../../topicos/1.1%20Sinais%20em%20tempo%20contínuo%20e%20em%20tempo%20discreto.md)
+[1 Sinais e Sistemas](topicos/1%20Sinais%20e%20Sistemas.md)
+[1-1 Sinais em tempo contínuo e em tempo discreto](topicos/1-1%20Sinais%20em%20tempo%20contínuo%20e%20em%20tempo%20discreto.md)
 Anterior: [tom puro em tempo discreto](tom%20puro%20em%20tempo%20discreto.md)
 Próximo: [energia de um sinal](energia%20de%20um%20sinal.md)
 

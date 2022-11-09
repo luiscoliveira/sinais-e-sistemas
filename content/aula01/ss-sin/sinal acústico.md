@@ -16,8 +16,8 @@ Trata-se de um [sinal em tempo contínuo](sinal%20em%20tempo%20contínuo.md) que
 
 Um [tom puro em tempo contínuo](tom%20puro%20em%20tempo%20contínuo.md) é um exemplo de um sinal acústico.
 
-[Aula01](../Aula01.md)
-[1. Sinais e Sistemas](../../topicos/1.%20Sinais%20e%20Sistemas.md)
-[1.1 Sinais em tempo contínuo e em tempo discreto](../../topicos/1.1%20Sinais%20em%20tempo%20contínuo%20e%20em%20tempo%20discreto.md)
-Anterior: [1.1 Sinais em tempo contínuo e em tempo discreto](../../topicos/1.1%20Sinais%20em%20tempo%20contínuo%20e%20em%20tempo%20discreto.md)
-Próximo: [função matemática](função%20matemática.md)
+- [Aula01](../Aula01.md)
+- [1 Sinais e Sistemas](topicos/1%20Sinais%20e%20Sistemas.md)
+- [1-1 Sinais em tempo contínuo e em tempo discreto](topicos/1-1%20Sinais%20em%20tempo%20contínuo%20e%20em%20tempo%20discreto.md)
+- Anterior: [1-1 Sinais em tempo contínuo e em tempo discreto](topicos/1-1%20Sinais%20em%20tempo%20contínuo%20e%20em%20tempo%20discreto.md)
+- Próximo: [função matemática](função%20matemática.md)

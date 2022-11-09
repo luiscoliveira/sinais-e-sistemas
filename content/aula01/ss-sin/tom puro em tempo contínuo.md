@@ -14,7 +14,7 @@ Exemplo da amostragem a 132 amostras/s de um tom puro de 440 Hz, resultando num 
 ![](attachments/Sine_wave_440.wav)
 
 [Aula01](../Aula01.md)
-[1. Sinais e Sistemas](../../topicos/1.%20Sinais%20e%20Sistemas.md)
-[1.1 Sinais em tempo contínuo e em tempo discreto](../../topicos/1.1%20Sinais%20em%20tempo%20contínuo%20e%20em%20tempo%20discreto.md)
+[1 Sinais e Sistemas](topicos/1%20Sinais%20e%20Sistemas.md)
+[1-1 Sinais em tempo contínuo e em tempo discreto](topicos/1-1%20Sinais%20em%20tempo%20contínuo%20e%20em%20tempo%20discreto.md)
 Anterior: [sinal em tempo contínuo](sinal%20em%20tempo%20contínuo.md)
 Próximo: [sinal bi-dimensional](sinal%20bi-dimensional.md)

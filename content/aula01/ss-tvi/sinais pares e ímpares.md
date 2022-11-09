@@ -11,7 +11,7 @@ Por exemplo, sinal real $x(t)$ é par enquanto o sinal real $y(t)$ é ímpar:
 ![](attachments/parimpar.svg)
 
 [Aula01](../Aula01.md)
-[1. Sinais e Sistemas](../../topicos/1.%20Sinais%20e%20Sistemas.md)
-[1.2 Transformação da variável independente](../../topicos/1.2%20Transformação%20da%20variável%20independente.md)
+[1 Sinais e Sistemas](topicos/1%20Sinais%20e%20Sistemas.md)
+[1-2 Transformação da variável independente](topicos/1-2%20Transformação%20da%20variável%20independente.md)
 Anterior: [escalamento temporal](escalamento%20temporal.md)
 Seguinte: [componente par e ímpar de um sinal](componente%20par%20e%20ímpar%20de%20um%20sinal.md)

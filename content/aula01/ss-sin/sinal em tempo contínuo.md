@@ -17,7 +17,7 @@ Um [sinal acústico](sinal%20acústico.md) é um exemplo de um sinal em tempo co
 Um sinal que é função de uma variável inteira ($\mathbb{Z}$) é um [sinal em tempo discreto](sinal%20em%20tempo%20discreto.md).
 
 [Aula01](../Aula01.md)
-[1. Sinais e Sistemas](../../topicos/1.%20Sinais%20e%20Sistemas.md)
-[1.1 Sinais em tempo contínuo e em tempo discreto](../../topicos/1.1%20Sinais%20em%20tempo%20contínuo%20e%20em%20tempo%20discreto.md)
+[1 Sinais e Sistemas](topicos/1%20Sinais%20e%20Sistemas.md)
+[1-1 Sinais em tempo contínuo e em tempo discreto](topicos/1-1%20Sinais%20em%20tempo%20contínuo%20e%20em%20tempo%20discreto.md)
 Anterior: [conjunto de números](conjunto%20de%20números.md)
 Próximo: [tom puro em tempo contínuo](tom%20puro%20em%20tempo%20contínuo.md)

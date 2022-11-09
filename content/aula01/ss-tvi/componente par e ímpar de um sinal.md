@@ -14,7 +14,7 @@ x_o(t) &=& \frac{1}{2} [ x(t) - x^\ast(-t) ]
 
 
 [Aula01](../Aula01.md)
-[1. Sinais e Sistemas](../../topicos/1.%20Sinais%20e%20Sistemas.md)
-[1.2 Transformação da variável independente](../../topicos/1.2%20Transformação%20da%20variável%20independente.md)
+[1 Sinais e Sistemas](topicos/1%20Sinais%20e%20Sistemas.md)
+[1-2 Transformação da variável independente](topicos/1-2%20Transformação%20da%20variável%20independente.md)
 Anterior: [sinais pares e ímpares](sinais%20pares%20e%20ímpares.md)
 Seguinte: [1.3 Sinais exponenciais e sinusoidais](1.3%20Sinais%20exponenciais%20e%20sinusoidais)
