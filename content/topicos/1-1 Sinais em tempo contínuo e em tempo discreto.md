@@ -24,4 +24,4 @@ Nesta secção define-se um sinal como uma função matemática cuja variável i
 - [potência de um sinal](aulas/aula01/ss-sin-conc/potência%20de%20um%20sinal.md)
 
 
-Próximo: [sinal acústico](aulas/aula01/ss-sin-conc/sinal%20acústico.md)
+Próximo: [1-2 Transformação da variável independente](topicos/1-2%20Transformação%20da%20variável%20independente.md)

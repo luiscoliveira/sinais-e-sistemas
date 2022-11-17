@@ -14,4 +14,4 @@ Tal como na secção anterior iremos considerar sinais que representam grandezas
 - [sinais pares e ímpares](aulas/aula01/ss-tvi-conc/sinais%20pares%20e%20ímpares.md)
 - [componente par e ímpar de um sinal](aulas/aula01/ss-tvi-conc/componente%20par%20e%20ímpar%20de%20um%20sinal.md)
 
-Próximo: [deslocamento temporal em tempo contínuo](aulas/aula01/ss-tvi/deslocamento%20temporal%20em%20tempo%20contínuo.md).
+Próximo: [deslocamento temporal em tempo contínuo](aulas/aula01/ss-tvi-conc/deslocamento%20temporal%20em%20tempo%20contínuo.md)
