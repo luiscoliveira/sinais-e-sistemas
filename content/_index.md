@@ -1,12 +1,21 @@
 ---
-title: "Sinais e Sistemas 2022-23"
+title: "_index"
 ---
-
-# Resumos e Problemas
+# Sinais e Sistemas 2022-23
 
 _Luis Caldas de Oliveira_
 
-lco@tecnico.ulisboa.pt
+## Conceitos, Problemas, Procedimentos e Código
 
-## Semana 1 (2022-11-21)
-- [Aula01](aulas/aula01/Aula01.md)
+### Aulas
+
+- 21-Nov: [Aula01](pub/class/Aula01.md)
+- 22-Nov: [Aula02](pub/class/Aula02.md)
+
+
+### Código: Jupyter Notebooks
+
+- [Introdução aos Jupyter notebooks e ao Python](https://colab.research.google.com/github/luiscoliveira/ss-ipynb/blob/main/notebooks/intro-jupyter-python.ipynb)
+
+
+
